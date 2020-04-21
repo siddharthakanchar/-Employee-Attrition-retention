@@ -624,7 +624,7 @@ roc_cur('Random forest classifier',y_train,rmf_clf_scores)
 # ####          RECALL SCORE-66%
 # ####          ROC-82%
 
-# # THANK YOU FOR THE OPPUTUNITY 
+
 
 # ## NAME:K.V.S.S SIDDHARTHA
 # 
